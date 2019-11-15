@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 module Enumerable
   # my_each 1
   def my_each
