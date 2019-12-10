@@ -30,8 +30,8 @@ To get a local copy up and running follow these simple example steps.
 
 ## Author
 
-- Github: [@githubhandle](https://github.com/Elijahscriptdev)
-- Twitter: [@twitterhandle](https://twitter.com/ElijahObominuru)
+- Github: [Elijahscriptdev](https://github.com/Elijahscriptdev)
+- Twitter: [@ElijahObominuru](https://twitter.com/ElijahObominuru)
 
 ## 🤝 Contributing
 
